@@ -1,1 +1,1 @@
-![]('public\preview.png')
+![]('public/preview.png')
